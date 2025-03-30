@@ -3,5 +3,13 @@ langchain
 openai
 pinecone-client	
 python-dotenv
-httpx	
 uvicorn
+streamlit
+httpx
+pandas
+numpy
+scikit-learn
+requests
+
+
+
